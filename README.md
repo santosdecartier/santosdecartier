@@ -10,7 +10,7 @@ Me chamo Guilherme Lapenda, tenho 19 anos e moro em Recife - PE. Atualmente curs
  
 #
 
-<img align="right" alt="" height="190px" src="./src/edgerunners.gif">
+<img align="right" alt="" height="190px" src="./src/study.gif">
 
 <h3 align="left">Connect with me!</h3>
 
