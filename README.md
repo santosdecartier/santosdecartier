@@ -6,7 +6,7 @@
 
 #
 
-Me chamo Guilherme Lapenda, tenho 19 anos e moro em Recife - PE. Atualmente curso Ciência da Computação. Sou apaixonado por tecnologia, curioso sobre desenvolvivimento web e lógica de programação e espero poder compartilhar meu desenvolvimento profissional através desse perfil.
+Me chamo Guilherme Lapenda, tenho 19 anos e moro em Recife - PE. Atualmente curso Ciência da Computação. Sou apaixonado por tecnologia, curioso sobre desenvolvimento web e lógica de programação e espero poder compartilhar meu desenvolvimento profissional através desse perfil.
  
 #
 
